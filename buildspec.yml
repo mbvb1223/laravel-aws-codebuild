@@ -38,7 +38,7 @@ phases:
         #npm install -g grunt
         #npm install -g webpack
       # Start Mysql if you need it
-      # - apt-get install -y mysql-server....
+      # - apt-get install -y mysql-server....h
       # - su mysql -s /bin/bash -c "/usr/sbin/mysqld" &
   build:
     commands:
